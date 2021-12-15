@@ -1,21 +1,21 @@
-= Changelog: de.jakop.spielwiese.komponente
+# Changelog: de.jakop.spielwiese.komponente
 
-== [0.0.2] - 2021-12-08
+## [0.0.2] - 2021-12-08
 
-=== Added
+## Added
 
 * Feature 002
 
-=== Changed
+### Changed
 
 * Change 002
 
-== [0.0.1] - 2021-11-19
+## [0.0.1] - 2021-11-19
 
-=== Added
+### Added
 
 * Feature 001
  
-=== Changed
+### Changed
 
 * Change 001
